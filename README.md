@@ -1,3 +1,3 @@
 # form-CRUD-database
 
-Membuat website form yang memiliki fungsi CRUD (Create Read Update Delete) terhadap database.
+Membuat website dengan form yang memiliki fungsi CRUD (Create Read Update Delete) terhadap database.
